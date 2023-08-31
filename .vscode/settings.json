@@ -1,0 +1,11 @@
+{
+  "eslint.workingDirectories": [],
+  "eslint.rules.customizations": [],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true,
+    "source.sortMembers": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
